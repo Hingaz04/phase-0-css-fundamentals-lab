@@ -3,3 +3,39 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1{
+  text-align: center;
+}
+
+nav{
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+
+
+  
+}
+figure{
+  text-align: center;
+}
+
+#featured_property{
+  width:800px;
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+
+#details{
+  display:inline-flex;
+  background-color: red;
+  margin-right: 30px;
+  width: 100%;
+  
+}
+div{
+  width: 25%;
+  text-align: center;
+}
